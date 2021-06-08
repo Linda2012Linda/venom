@@ -1,1 +1,2 @@
-# venom ученый проект Glo Academy
+# venom учебный проект Glo Academy
+# HTML,CSS
